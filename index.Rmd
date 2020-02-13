@@ -3,9 +3,9 @@ title: "Enlaces Ciencia de Datos"
 author: "Ricardo Alberich"
 date: "31/1/2020"
 output:
-  pdf_document: default
   html_document:
     keep_md: yes
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
