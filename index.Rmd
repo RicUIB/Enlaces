@@ -1,6 +1,6 @@
 ---
 title: "Enlaces Ciencia de Datos"
-author: "Ricardo"
+author: "Ricardo Alberich"
 date: "31/1/2020"
 output:
   pdf_document: default
