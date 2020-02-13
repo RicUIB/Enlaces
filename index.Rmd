@@ -22,12 +22,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Material cursos probabilidad y estadística básicos
 
-1. [Probabilidad y variables aleatorias para ML con R y Python](https://joanby.github.io/bookdown-probabilidad)
-    + [Presentaciones](https://github.com/joanby/probabilidad)
+1. [Probabilidad y variables aleatorias para ML con R y Python bookdown](https://joanby.github.io/bookdown-probabilidad)
+    + [Presentaciones](https://joanby.github.io/probabilidad)
+    + [Presentaciones repositorio](https://github.com/joanby/probabilidad)
     + [Shiny](https://joanby.shinyapps.io/DistribucionesNotables/)
 
-2. [Curso completo de estadística inferencial con R y Python](https://github.com/joanby/estadistica-inferencial)
-    + [Sinhy intervalos de confianza y contraste hipótesis](https://joanby.shinyapps.io/contrastes-hipotesis/)
+2. Curso completo de estadística inferencial con R y Python bookdown (en preparacion)
+    + [Presentaciones](https://joanby.github.io/estadistica-inferencial)
+    + [Presentaciones repositorio](https://github.com/joanby/estadistica-inferencial)
+    + [Shiny intervalos de confianza y contrastes hipótesis EN CONSTRUCCIÓN](https://joanby.shinyapps.io/contrastes-hipotesis/)
 
 
 
