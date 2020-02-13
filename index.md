@@ -1,7 +1,7 @@
 ---
 title: "Enlaces Ciencia de Datos"
 author: "Ricardo Alberich"
-date: "31/1/2020"
+date: "13/02/2020"
 output:
   html_document:
     keep_md: yes
@@ -11,7 +11,7 @@ output:
 
 
 
-# Enlaces a Material propio
+# Enlaces  a manuales cursos y libros de Análisis de Datos
 
 ## Manuales de R básicos
 
@@ -42,6 +42,7 @@ output:
 3. [Curso completo de Machine Learning: Data Science con RStudio](https://www.udemy.com/course/r-data-science/)
 4. [Probabilidad para Machine Learning y Big Data con R y Python](https://www.udemy.com/course/probabilidad-y-variables-aleatorias-para-ml-con-r-y-python/)
 5. [Estadistica inferencial para Machine Learning y Big Data con R y Python](https://www.udemy.com/course/estadisticainferencial/)
+6. [Página de itinerarios del profesor Juan Gabriel Gomila](https://frogames.es/rutas-de-aprendizaje/)
 
 **Material  gratis de los tres primeros cursos.**
 
@@ -49,17 +50,14 @@ output:
 2. (https://github.com/joanby/machinelearning-az)
 3. (https://github.com/joanby/r-course)
 
-
-### Itinerarios del profesor Juan Gabriel Gomila
-
-[Página de itinerarios](https://frogames.es/rutas-de-aprendizaje/)
-
 ## Libros del entorno de R y Rstudio
 
 En general los libros gratuitos de (https://bookdown.org/)
 
-Dos libros  básicos que introducen a las librerías tidyverse son 
+Dos libros, entre otros,m  básicos que introducen a las librerías 
+[tidyverse del entorno de Rstudio](https://rstudio.com/)  son 
 
 1. [R for Data Science](https://r4ds.had.co.nz/)
 2. [Tidy text](https://www.tidytextmining.com/)
+3. [Hay muchos más libros  en bookdown.org](https://bookdown.org)
 
