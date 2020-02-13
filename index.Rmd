@@ -2,8 +2,9 @@
 title: "Enlaces Ciencia de Datos"
 author: "Ricardo"
 date: "31/1/2020"
-output: 
-  html_document: 
+output:
+  pdf_document: default
+  html_document:
     keep_md: yes
 ---
 
@@ -28,8 +29,6 @@ knitr::opts_chunk$set(echo = TRUE)
 2. [Curso completo de estadística inferencial con R y Python](https://github.com/joanby/estadistica-inferencial)
     + [Sinhy intervalos de confianza y contraste hipótesis](https://joanby.shinyapps.io/contrastes-hipotesis/)
 
-
-Hola hola
 
 
 ## Cursos en linea de Probabilidad, Estadística y  Machine Learning.
