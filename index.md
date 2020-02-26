@@ -27,7 +27,7 @@ output:
     + [Shiny](https://joanby.shinyapps.io/DistribucionesNotables/)
 
 2. [Curso completo de estadística inferencial con R y Python bookdown. EN CONSTRUCCIÓN](https://joanby.github.io/bookdown-estadistica-inferencial)
-    + [Presentac iones](https://joanby.github.io/estadistica-inferencial)
+    + [Presentaciones](https://joanby.github.io/estadistica-inferencial)
     + [Presentaciones repositorio](https://github.com/joanby/estadistica-inferencial)
     + [Shiny intervalos de confianza y contrastes hipótesis. EN CONSTRUCCIÓN](https://joanby.shinyapps.io/contrastes-hipotesis/)
 
