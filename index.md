@@ -16,7 +16,7 @@ output:
 ## Manuales de R básicos
 
 1. [AprendeR1](https://aprender-uib.github.io/AprendeR1/). Manual de R parte 1. Descriptiva.
-2. [AprendeR2](https://aprender-uib.github.io/AprendeR2/).  Manual de R parte 2. Inferencial.
+2. [AprendeR2](https://cescrossello.github.io/AprendeR-II/).  Manual de R parte 2. Inferencial.
 
 ## Material cursos probabilidad y estadística básicos
 
