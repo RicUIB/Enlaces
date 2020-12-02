@@ -23,10 +23,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Enlaces  a  repositorios de datos
 
-1. [Kaggle](Datods y kernels)
-1. [Sciencie (Nature)](https://www.nature.com/sdata/policies/repositories)
-1.[ Data Repositories](http://oad.simmons.edu/oadwiki/Data_repositories)
-1.[UCI (Machine learning repository)](https://archive.ics.uci.edu/ml/datasets.ph)
+1. [Kaggle](https://www.kaggle.com/)
+
+2. [Sciencie (Nature)](https://www.nature.com/sdata/policies/repositories)
+
+3. [ Data Repositories](http://oad.simmons.edu/oadwiki/Data_repositories)
+
+4. [UCI (Machine learningrepository)](https://archive.ics.uci.edu/ml/datasets.ph)
 
 
 ## Material cursos probabilidad y estadística básicos

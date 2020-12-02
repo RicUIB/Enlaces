@@ -19,6 +19,17 @@ output:
 2. [AprendeR2 version 2](https://aprender-uib.github.io/AprendeR2/). VERSION 2 Manual de R parte 2. Inferencial.
 3. [AprendeR2 version 1](https://cescrossello.github.io/AprendeR-II/). VERSION 2 Manual de R parte 2. Inferencial.
 
+## Enlaces  a  repositorios de datos
+
+1. [Kaggle](https://www.kaggle.com/)
+
+2. [Sciencie (Nature)](https://www.nature.com/sdata/policies/repositories)
+
+3.[ Data Repositories](http://oad.simmons.edu/oadwiki/Data_repositories)
+
+4.[UCI (Machine learningrepository)](https://archive.ics.uci.edu/ml/datasets.ph)
+
+
 ## Material cursos probabilidad y estadística básicos
 
 1. [Probabilidad y variables aleatorias para ML con R y Python bookdown](https://joanby.github.io/bookdown-probabilidad)
