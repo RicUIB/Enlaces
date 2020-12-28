@@ -25,9 +25,9 @@ output:
 
 2. [Sciencie (Nature)](https://www.nature.com/sdata/policies/repositories)
 
-3.[ Data Repositories](http://oad.simmons.edu/oadwiki/Data_repositories)
+3. [ Data Repositories](http://oad.simmons.edu/oadwiki/Data_repositories)
 
-4.[UCI (Machine learningrepository)](https://archive.ics.uci.edu/ml/datasets.ph)
+4. [UCI (Machine learningrepository)](https://archive.ics.uci.edu/ml/datasets.ph)
 
 
 ## Material cursos probabilidad y estadística básicos
