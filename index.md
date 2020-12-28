@@ -27,7 +27,7 @@ output:
 
 3. [ Data Repositories](http://oad.simmons.edu/oadwiki/Data_repositories)
 
-4. [UCI (Machine learningrepository)](https://archive.ics.uci.edu/ml/)
+4. [UCI (Machine learning repository)](https://archive.ics.uci.edu)
 
 
 ## Material cursos probabilidad y estadística básicos
