@@ -1,0 +1,58 @@
+
+Datos sobre violencia de género españa/europa:
+
+  
+Open data European Union
+
+https://data.europa.eu/euodp/en/data/dataset?q=gender+violence&ext_boolean=all
+
+Ministerio de igualdad e españa:
+  
+https://violenciagenero.igualdad.gob.es/violenciaEnCifras/home.htm
+
+
+INE:
+
+https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176866&menu=ultiDatos&idp=1254735573206
+https://www.epdata.es/datos/violencia-genero-estadisticas-ultima-victima/109/espana/106
+
+
+Eige
+
+https://eige.europa.eu/gender-statistics/dgs/browse/genvio
+https://eige.europa.eu/gender-statistics/dgs/data-talks
+
+Eurostats
+
+https://ec.europa.eu/eurostat/web/sdi/gender-equali
+
+
+
+Artículos: reciecientes en google scholar
+
+https://scholar.google.es/scholar?q=gender+violence+eurostat&hl=en&as_sdt=0&as_vis=1&oi=scholart
+
+
+
+Fuentes de datos orden un poco aleatorio:
+
+Kaggle https://www.kaggle.com
+
+Sciencie (Nature) https://www.nature.com/sdata/policies/repositories
+
+Data Repositories http://oad.simmons.edu/oadwiki/Data_repositories
+
+UCI (Machine learningrepository) https://archive.ics.uci.edu/ml/datasets.ph
+
+INE https://www.ine.es
+  
+Open data European Union https://data.europa.eu
+
+Eurostat https://ec.europa.eu/eurostat
+  
+  
+  
+  
+  
+
+
