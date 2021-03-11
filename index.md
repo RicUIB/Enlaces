@@ -13,11 +13,21 @@ output:
 
 # Enlaces  a manuales cursos y libros de Análisis de Datos
 
-## Manuales de R básicos
+## Manuales de R 
+
+### Básicos:
+
+
+1. [Transparencias curso de introducción a la estadística descriptiva con R Studio y Python](https://github.com/joanby/r-basic)
+
+### Avanzados
 
 1. [AprendeR1](https://aprender-uib.github.io/AprendeR1/). Manual de R parte 1. Descriptiva.
 2. [AprendeR2 version 2](https://aprender-uib.github.io/AprendeR2/). VERSION 2 Manual de R parte 2. Inferencial.
-3. [AprendeR2 version 1](https://cescrossello.github.io/AprendeR-II/). VERSION 2 Manual de R parte 2. Inferencial.
+
+
+
+
 
 ## Enlaces  a  repositorios de datos
 
@@ -27,7 +37,7 @@ output:
 
 3. [ Data Repositories](http://oad.simmons.edu/oadwiki/Data_repositories)
 
-4. [UCI (Machine learning repository)](https://archive.ics.uci.edu)
+4. [UCI (Machine learningrepository)](https://archive.ics.uci.edu/ml/datasets.ph)
 
 
 ## Material cursos probabilidad y estadística básicos
