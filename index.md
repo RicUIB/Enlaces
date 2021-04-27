@@ -18,7 +18,7 @@ output:
 ### Básicos:
 
 
-1. [Transparencias curso de introducción a la estadística descriptiva con R Studio y Python](https://github.com/joanby/r-basic)
+1. [Transparencias curso de introducción a la estadística descriptiva con R Studio y Python](https://github.com/joanby/r-basic).
 
 ### Avanzados
 
