@@ -23,7 +23,7 @@ output:
 ### Avanzados
 
 1. [AprendeR1](https://aprender-uib.github.io/AprendeR1/). Manual de R parte 1. Descriptiva.
-2. [AprendeR2 version 2](https://aprender-uib.github.io/AprendeR2/). VERSION 2 Manual de R parte 2. Inferencial.
+2. [AprendeR2](https://aprender-uib.github.io/AprendeR2/). VERSION 2 Manual de R parte 2. Inferencial.
 
 
 
