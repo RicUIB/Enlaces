@@ -48,27 +48,11 @@ output:
     + [Ejercicios, en Rmd, pdf ](https://github.com/joanby/probabilidad/tree/master/ejercicios)
     + [Shiny](https://joanby.shinyapps.io/DistribucionesNotables/)
 
-2. [Curso completo de estadística inferencial con R y Python bookdown. EN CONSTRUCCIÓN](https://joanby.github.io/bookdown-estadistica-inferencial)
+2. [Estadística inferencial con R y Python bookdown.](https://joanby.github.io/bookdown-estadistica-inferencial)
     + [Presentaciones](https://joanby.github.io/estadistica-inferencial)
     + [Presentaciones repositorio](https://github.com/joanby/estadistica-inferencial)
     + [Shiny intervalos de confianza y contrastes hipótesis. EN CONSTRUCCIÓN](https://joanby.shinyapps.io/contrastes-hipotesis/)
 
-
-
-## Cursos en linea de Probabilidad, Estadística y  Machine Learning.
-
-
-### Cursos en linea para MAT3
-
-1. [Probabilidad para Machine Learning y Big Data con R y Python](https://www.udemy.com/course/probabilidad-y-variables-aleatorias-para-ml-con-r-y-python/). [Material del curso público](https://github.com/joanby/probabilidad)
-2. [Estadistica inferencial para Machine Learning y Big Data con R y Python](https://www.udemy.com/course/estadisticainferencial/)[Material del curso público](https://github.com/joanby/estadistica-inferencial)
-
-
-### Otros cursos
-1. [Curso completo de Estadística descriptiva - RStudio y Python ](https://www.udemy.com/course/estadistica-descriptiva/). [Material del curso público](https://github.com/joanby/r-basic)
-2. [Machine Learning de A a la Z: R y Python para Data Science ](https://www.udemy.com/course/machinelearning-es/)[Material del curso público](https://github.com/joanby/machinelearning-az)
-3. [Curso completo de Machine Learning: Data Science con RStudio](https://www.udemy.com/course/r-data-science/).[Material del curso público](https://github.com/joanby/r-course)
-4. [Página de itinerarios del profesor Juan Gabriel Gomila](https://frogames.es/rutas-de-aprendizaje/)
 
 
 
